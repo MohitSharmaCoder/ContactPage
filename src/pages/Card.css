@@ -1,0 +1,7 @@
+*{
+    background-color: #c7d2fe66;
+    backdrop-filter: blur(10px);
+    border:2px solid transparent;
+    background-clip: border-box;
+    cursor: pointer;
+}
